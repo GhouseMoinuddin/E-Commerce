@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+  background: #fff;
+}
+
+a.active hr {
+  display: block;
+}
+
